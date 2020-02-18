@@ -14,9 +14,6 @@ package edu.illinois.cs.cs125.spring2020.mp.logic;
  * Once you've finished everything here - passed all the tests except testTargetModeGameplay - move
  * on to GameActivity to make the game work!
  */
-
-import com.google.android.gms.maps.model.LatLng;
-
 /**
  * Holds methods for managing a path of target claims.
  * <p>
